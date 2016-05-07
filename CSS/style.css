@@ -1,0 +1,133 @@
+.negro{
+	width: 40%;
+	height: 400px;
+	background: black;
+	display: inline-block;
+}
+.azul{
+	width: 100%;
+	height: 400px;
+	background: #2688b5;
+}
+.contenedorDelHeader{
+	width: 40%;
+	height: 250px;
+	display: inline-block;
+	position: relative;
+	top: -200px;
+	left: 50px;
+}
+.floatDerecha:hover{
+	cursor: pointer;
+}
+.floatDerecha{
+	float: right;
+}
+h1{
+	clear: left;
+	font:400 4em "Montserrat";
+	color: #fff;
+	position: relative;
+	top: 120px;
+}
+.container{
+	width: 70%;
+	height: auto;
+	margin: auto;
+	padding: 50px 0;
+}
+.lista{
+	display: inline-block;
+}
+.columnas{
+	margin:50px 40px;
+	width: 250px;
+	height:auto;
+}
+.imgLista{
+	padding:0px 80px;
+	margin: auto;
+}
+h2{
+	text-align: center;
+	margin-top: 30px;
+	font:700 0.9em 'Open Sans', sans-serif;
+	text-transform: capitalize;
+}
+p{
+	margin-top:25px;
+	text-align:center;
+	line-height: 1.6em;
+	font:400 0.8em 'Open Sans', sans-serif;
+	color: grey;	
+}
+.gris{
+	background: #f9f9f9;
+}
+.imgMoviles{
+	display: inline-block;
+	padding: 40px 30px 0px 0px;
+}
+.moviles{
+    display: inline-block;
+    width: 49%;
+    height: 450px;
+    float: right;
+    box-sizing: border-box;
+    padding: 10px 30px 25px 30px;
+}
+.izquierda{
+	text-align: left;
+}
+.customisable{
+	font:400 2em 'Open Sans', sans-serif;
+}
+.lorem{
+	font:400 0.9em 'Open Sans', sans-serif;
+	line-height: 1.6em;
+	margin-bottom: 30px;
+}
+ul{
+	list-style-position: inside;
+	list-style: square;
+	list-style-image: url("imagenes/bullets.png");
+}
+.estrella{
+	line-height:0.4em;
+	color:grey;
+}
+.purchase{
+	font:400 0.8em 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: white;
+	background: #31aae2;
+	letter-spacing: 1px;
+	display: inline-block;
+	margin: 20px 0;
+	padding: 15px 25px;
+}
+.fondoNegro{
+	background: #000;
+}
+.columnas2{
+	position: relative;
+	margin:60px 45px;
+	width: 350px;
+	height:450px;
+	background: white;
+}
+.divlorem{
+	width: 290px;
+	margin:20px auto;
+}
+.lorem2{
+	font:400 1.2em 'Open Sans', sans-serif;
+	line-height: 1.6em;
+	margin: 0;
+	color: white;
+}
+.customisable2{
+	font:700 2em 'Open Sans', sans-serif;
+	color: white;
+}
